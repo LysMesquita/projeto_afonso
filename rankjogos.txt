@@ -10,7 +10,7 @@
     <table border="black">
 
         <tr>
-            <td>1. Life is Strange</td>
+            <td>1. Life is Strange 2</td>
             </tr>
             <tr>
                 <td>2.  Fortnite</td>
