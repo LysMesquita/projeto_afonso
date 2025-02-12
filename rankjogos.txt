@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rank de Jogos</title>
+</head>
+<body bgcolor="grey">
+    <center>
+    <h1>Rank de Jogos</h1>
+    <table border="black">
+
+        <tr>
+            <td>1. Life is Strange</td>
+            </tr>
+            <tr>
+                <td>2.  Fortnite</td>
+                </tr>
+                <tr>
+                    <td>3. Hollow Knight</td>
+                    </tr>
+                    <tr>
+                        <td>4. Candy Crush</td>
+                        </tr>
+                        <tr>
+                            <td>5. GTA SA</td>
+                            </tr>
+                            <tr>
+                                <td>6. Call of Duty: Mobile</td>
+                                </tr>
+                                <tr>
+                                    <td>7. Wild Rift</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>8. Sonic the Headhog</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9. Mario Bross Wii</td>
+                                            </tr>
+                                            <tr>
+                                                <td>10. League of Legends</td>
+                                                </tr>
+    </table>
+</center>
+</body>
+</html>
